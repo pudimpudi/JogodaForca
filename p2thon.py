@@ -11,7 +11,7 @@ lista_vazia = []
 
 for letras in secret_palavra:
     lista_vazia += "_"
-# pedir para o user excolher uma letra     # colocar em minusculos
+# pedir para o user escolher uma letra     # colocar em minusculos
 num = 0
 game_over = False
 while not game_over:
